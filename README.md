@@ -2,7 +2,7 @@
 
 This Python project reads multiple text files, processes the text content, and calculates the **percentage of similarity between documents** using the **cosine similarity** algorithm.
 
-## 📌 Features
+## Features
 
 - Reads and processes multiple `.txt` documents.
 - Removes stopwords and non-alphanumeric words.
@@ -10,7 +10,7 @@ This Python project reads multiple text files, processes the text content, and c
 - Calculates cosine similarity between every pair of documents.
 - Displays a similarity matrix in percentage format.
 
-## 🧠 How It Works
+## How It Works
 
 The script:
 1. Loads text content from each file.
